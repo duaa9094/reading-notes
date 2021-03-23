@@ -1,14 +1,13 @@
 # reading-notes
 
-
- ### Thoughts on Growth Mindset 
+### Thoughts on Growth Mindset 
  ![growth mindset](https://hearingsolutionstriangle.com/wp-content/uploads/2018/09/Use-it-800-x-667.jpg)
  
 I belive nothing is impossible, however you need to know **yourself**, your **abilities** and know how to _**utilize and enhance it.**_
 
-To achieve my goals and keep on hardworking , every day I remind myself as :
+To achieve my goals and keep on hardworking , every day I remind myself as:
 1. Know your goals ,plan for it.
-2. No pain ,No gain :muscle:
+2. No pain ,No gain:muscle:
 3. When we are growing we are more productive.
 
 ### About Me:
