@@ -14,4 +14,4 @@ To achieve my goals and keep on hardworking , every day I remind myself as:
 My name is Duaa Abudhaim , I have bachelor degree in chemistry from Hashemite university , I'm thirty years old ,
 I like sport and traveling with passionate personality.
 
-You can reach me at my [GitHub Profile](https://duaa9094.github.io/reading-notes/)
+You can reach me at my [GitHub Profile](https://github.com/duaa9094)
