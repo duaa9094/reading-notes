@@ -7,7 +7,7 @@ I belive nothing is impossible, however you need to know **yourself**, your **ab
 
 To achieve my goals and keep on hardworking , every day I remind myself as:
 1. Know your goals ,plan for it.
-2. No pain ,No gain:muscle:
+2. No pain ,No gain :muscle:
 3. When we are growing we are more productive.
 
 ### About Me:
