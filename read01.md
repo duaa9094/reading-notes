@@ -1,0 +1,1 @@
+The tutorial shows how to use Linux terminal commands and other features such as shortcuts, and how to use the shell concept and to navigate the file system.

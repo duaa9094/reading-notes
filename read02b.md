@@ -8,4 +8,4 @@ There is a standard set of features and/or actions related to any VCS that appli
 
 Repository: is the centralized project structure that includes configuration files and work files, all control commands save and read from this repository
 Commit: is to push a new file version to the repository
-Checkout: is to pull an updated/fresh file from the repository
+Checkout: is to pull an updated/fresh file from the repository.
