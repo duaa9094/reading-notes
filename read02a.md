@@ -1,4 +1,4 @@
-Markdown is a small library to format and style text on GitHub.
+# Markdown is a small library to format and style text on GitHub.
 
 Text can be code, description, issues, pulls, etc.
 
