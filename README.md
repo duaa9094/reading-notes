@@ -14,4 +14,5 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 01 The Coder's Computer     | [Using a Linux terminal](/read01.md) |
 | Read: 02a Learning Markdown       | [Learning Markdown](read02a.md) |
 | Read: 02b Revisions and the Cloud | [Git Intro](read02b.md) |
+| Read: 03 - Structure web pages with HTML | [HTML5 Layout & Markup](read03.md) |
 
