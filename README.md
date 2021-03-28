@@ -16,4 +16,4 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 02b Revisions and the Cloud | [Git Intro](read02b.md) |
 | Read: 03 - Structure web pages with HTML | [HTML5 Layout & Markup](read03.md) |
 | Read: 04 - Programming with JavaScript | [Introduction & Expressions](read04.md) |
-
+| Read: 05 - Operators and Loops | [Comparison Operators and Loop ](read05.md) |
