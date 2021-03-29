@@ -19,8 +19,9 @@ RGB values, hex codes, and color names as follows
     }
 ```
 
-```
+
 ### Color Name
+```
     h1 {
     color: DarkCyan;
     } 
