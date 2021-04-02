@@ -7,7 +7,7 @@ I like sport and traveling with passionate personality.
 
 You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 
- 
+# Code 102 Reading Notes
 | Assignment                        | Link                            |
 | --------------------------------- | -------------------------------- |
 | Lab: 01b The Coder's Computer     | [Setup Verification](lab01b.md) |
@@ -18,3 +18,23 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 04 - Programming with JavaScript | [Introduction & Expressions](read04.md) |
 | Read: 05 - Operators and Loops | [Comparison Operators and Loop ](read05.md) |
 | Read: 06 - Design web pages with CSS | [Chapter 11: Color ](read06.md) |
+
+# Code 201 Reading Notes
+| Assignment                        | Link                            |
+| --------------------------------- | ------------------------------- |
+| Read 1                            | []()                            |
+| Read 2                            | []()                            |
+| Read 3                            | []()                            |
+| Read 4                            | []()                            |
+| Read 5                            | []()                            |
+| Read 6                            | []()                            |
+| Read 7                            | []()                            |
+| Read 8                            | []()                            |
+| Read 9                            | []()                            |
+| Read 10                           | []()                            |
+| Read 11                           | []()                            |
+| Read 12                           | []()                            |
+| Read 13                           | []()                            |
+| Read 14                           | []()                            |
+| Read 15                           | []()                            |
+
