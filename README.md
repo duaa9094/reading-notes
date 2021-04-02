@@ -19,22 +19,3 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 05 - Operators and Loops | [Comparison Operators and Loop ](read05.md) |
 | Read: 06 - Design web pages with CSS | [Chapter 11: Color ](read06.md) |
 
-# Code 201 Reading Notes
-| Assignment                        | Link                            |
-| --------------------------------- | ------------------------------- |
-| Read 1                            | []()                            |
-| Read 2                            | []()                            |
-| Read 3                            | []()                            |
-| Read 4                            | []()                            |
-| Read 5                            | []()                            |
-| Read 6                            | []()                            |
-| Read 7                            | []()                            |
-| Read 8                            | []()                            |
-| Read 9                            | []()                            |
-| Read 10                           | []()                            |
-| Read 11                           | []()                            |
-| Read 12                           | []()                            |
-| Read 13                           | []()                            |
-| Read 14                           | []()                            |
-| Read 15                           | []()                            |
-
