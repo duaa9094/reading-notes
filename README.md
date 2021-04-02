@@ -9,7 +9,8 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 
 
 
-## Code 102 Reading Notes 
+## Code 102 Reading Notes
+
 | Assignment                        | Link                            |
 | --------------------------------- | -------------------------------- |
 | Lab: 01b The Coder's Computer     | [Setup Verification](lab01b.md) |
