@@ -26,8 +26,8 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 
 | Assignment                        | Link                            |
 | --------------------------------- | ------------------------------- |
-| Read: 01 - Introductory HTML and JavaScript | [Link](class01.md)                            |
-| Read 2                            | []()                            |
+| Read: 01 - Introductory HTML and JavaScript | [Class01](class01.md)                            |
+| Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Class02](class02.md)                            |
 | Read 3                            | []()                            |
 | Read 4                            | []()                            |
 | Read 5                            | []()                            |
