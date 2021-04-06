@@ -29,7 +29,7 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 01 - Introductory HTML and JavaScript | [Class01](class01.md)                            |
 | Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Class02](class02.md)                            |
 | Read: 03 - HTML Lists, CSS Boxes, JS Control Flow | [Class03](class03.md)                            |
-| Read 4                            | []()                            |
+| Read: 04 - HTML Links, CSS Layout, JS Functions| [class04](class04.md)                            |
 | Read 5                            | []()                            |
 | Read 6                            | []()                            |
 | Read 7                            | []()                            |
