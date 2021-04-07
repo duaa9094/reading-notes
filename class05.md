@@ -1,6 +1,7 @@
 # Read: 05 - HTML Images; CSS Color & Text
 
-Chapter 5: “Images”
+## Chapter 5: “Images”
+
 Images are very substantial to web design, almost every web page has at least one or more images.
 
 A picture can say a thousand words, and great images help make the difference between an average-looking site and a really engaging one.
@@ -17,7 +18,8 @@ Here is NASA’s photo of the day
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# Chapter 11: “Color”
+## Chapter 11: “Color”
+
 
 Color not only brings your site to life, but also helps 
 convey the mood and evokes reactions
@@ -51,7 +53,9 @@ CSS3 added color opacity and the HSL (Hue Saturation Lightness) method of defini
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# Chapter 12: “Text”
+
+## Chapter 12: “Text”
+
 
 HTML and CSS together provides many element and features to structure and style text, for example you can control font, size, weight, style, and spacing.
 
