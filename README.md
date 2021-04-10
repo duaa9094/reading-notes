@@ -32,7 +32,7 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 04 - HTML Links, CSS Layout, JS Functions| [Class04](class04.md)                            |
 | Read: 05 - HTML Images; CSS Color & Text | [Class05](class05.md)                            |
 | Lab: 05c - CSS Selector Practice  | [CSS Selector](cssselector.md)                            |
-| Read 7                            | []()                            |
+| Read: 06 - JS Object Literals; The DOM    | [Class06](class06.md)                            |
 | Read 8                            | []()                            |
 | Read 9                            | []()                            |
 | Read 10                           | []()                            |
