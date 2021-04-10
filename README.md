@@ -31,7 +31,7 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 03 - HTML Lists, CSS Boxes, JS Control Flow | [Class03](class03.md)                            |
 | Read: 04 - HTML Links, CSS Layout, JS Functions| [Class04](class04.md)                            |
 | Read: 05 - HTML Images; CSS Color & Text | [Class05](class05.md)                            |
-| Read 6                            | []()                            |
+| Lab: 05c - CSS Selector Practice  | [CSS Selector](cssselector.md)                            |
 | Read 7                            | []()                            |
 | Read 8                            | []()                            |
 | Read 9                            | []()                            |
