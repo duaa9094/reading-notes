@@ -34,7 +34,7 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Lab: 05c - CSS Selector Practice  | [CSS Selector](cssselector.md)                            |
 | Read: 06 - JS Object Literals; The DOM    | [Class06](class06.md)                            |
 | Read: 08 - More CSS Layout        | [Class08](class08.md)                            |
-| Read 9                            | []()                            |
+| Read: 09 - Forms and Events       | [Class09](class09.md)                            |
 | Read 10                           | []()                            |
 | Read 11                           | []()                            |
 | Read 12                           | []()                            |
