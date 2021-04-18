@@ -37,7 +37,7 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 09 - Forms and Events       | [Class09](class09.md)                            |
 | Read: 10 - JS Debugging              | [Class10](class10.md)                            |
 | Read: 11 - Assorted Topics        | [Class11](class11.md)                            |
-| Read 12                           | []()                            |
+| Read: 12 - Docs for the HTML \<canvas\> Element & Chart.js                        | [Class12](class12.md)                            |
 | Read 13                           | []()                            |
 | Read 14                           | []()                            |
 | Read 15                           | []()                            |
