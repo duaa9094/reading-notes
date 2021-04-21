@@ -39,6 +39,6 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 11 - Assorted Topics        | [Class11](class11.md)                            |
 | Read: 12 - Docs for the HTML \<canvas\> Element & Chart.js                        | [Class12](class12.md)                            |
 | Read: 13 - Local Storage   | [Class13](class13.md)                            |
-| Read 14                           | []()                            |
-| Read 15                           | []()                            |
+| Read: 14a - CSS Transforms, Transitions, and Animations         | [Class14](class14a.md)                            |
+| Read: 14b - What Google Learned About Teams                       | [Class14](class14b.md)                            |
 
