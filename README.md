@@ -1,4 +1,7 @@
-# reading-notes
+# Reading-Notes :ledger:
+
+### Description:
+This repository consist of readings assignments as a preparation for next lecture for all level. 
 
 
 ### About Me :
@@ -9,7 +12,7 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 
 
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development Reading Notes
 
 | Assignment                        | Link                            |
 | --------------------------------- | -------------------------------- |
@@ -21,8 +24,9 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 04 - Programming with JavaScript | [Introduction & Expressions](read04.md) |
 | Read: 05 - Operators and Loops | [Comparison Operators and Loop ](read05.md) |
 | Read: 06 - Design web pages with CSS | [Chapter 11: Color ](read06.md) |
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development Reading Notes
 
 | Assignment                        | Link                            |
 | --------------------------------- | ------------------------------- |
@@ -42,3 +46,6 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 14a - CSS Transforms, Transitions, and Animations         | [Class14](class14a.md)                            |
 | Read: 14b - What Google Learned About Teams                       | [Class14](class14b.md)                            |
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+## Code 301 - Intermediate Software Development Reading Notes
