@@ -1,7 +1,9 @@
-# Reading-Notes :ledger:
+# Reading-Notes
+
 
 ### Description:
-This repository consist of readings assignments as a preparation for next lecture for all level. 
+This repository consist of reading assignments as a preparation for next lecture in each level. 
+
 
 
 ### About Me :
@@ -12,7 +14,9 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 
 
 
+
 ## Code 102 - Intro to Software Development Reading Notes
+
 
 | Assignment                        | Link                            |
 | --------------------------------- | -------------------------------- |
@@ -24,6 +28,7 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 04 - Programming with JavaScript | [Introduction & Expressions](read04.md) |
 | Read: 05 - Operators and Loops | [Comparison Operators and Loop ](read05.md) |
 | Read: 06 - Design web pages with CSS | [Chapter 11: Color ](read06.md) |
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Code 201 - Foundations of Software Development Reading Notes
