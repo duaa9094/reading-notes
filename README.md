@@ -54,3 +54,11 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Code 301 - Intermediate Software Development Reading Notes
+
+| Assignment                        | Link                            |
+| --------------------------------- | ------------------------------- |
+| Read: 01 - Introduction to React and Components | [Class01](level301/class01.md)                            |
+
+
+
+
