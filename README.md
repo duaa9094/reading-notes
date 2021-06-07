@@ -59,6 +59,7 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | --------------------------------- | ------------------------------- |
 | Read: 01 - Introduction to React and Components | [Class01](level301/class01.md)                            |
 
+| Read: 02 - State and Props | [Class02](level301/class02.md)                            |
 
 
 
