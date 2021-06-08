@@ -61,5 +61,6 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 
 | Read: 02 - State and Props | [Class02](level301/class02.md)                            |
 
+| Read: 03 - Passing Functions as Props | [Class03](level301/class03.md)                            |
 
 
