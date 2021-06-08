@@ -6,9 +6,12 @@ An array contain the output of call back function
 
 2. If I want to loop through an array and display each value in JSX, how do I do that in React?
 
+Build collections of elements and include them in JSX using curly braces {}
+
 3. Each list item needs a unique **Key**.
 
 4. What is the purpose of a key?
+
 Keys help React identify which items have changed, are added, or are removed
 
 
