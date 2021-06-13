@@ -63,3 +63,4 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 04 - React and Forms | [Class04](level301/class04.md)                            |
 | Read: 05 - Putting it all together | [Class05](level301/class05.md)                            |
 | Read: 06 - NODE.JS | [Class06](level301/class06.md)                            |
+| Read: 07 - REST | [Class06](level301/class07.md)                            |
