@@ -65,4 +65,5 @@ You can reach me at my [GitHub Profile](https://github.com/duaa9094)
 | Read: 06 - NODE.JS | [Class06](level301/class06.md)                            |
 | Read: 07 - REST | [Class07](level301/class07.md)                            |
 | Read: 08 - APIs | [Class08](level301/class08.md)                            |
-| Read: 08 - FUNCTIONAL PROGRAMMING | [Class09](level301/class09.md)                            |
+| Read: 00 - FUNCTIONAL PROGRAMMING | [Class09](level301/class09.md)                            |
+| Read: 10 - In memory storage | [Class10](level301/class10.md)                            |
